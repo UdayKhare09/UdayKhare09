@@ -114,18 +114,6 @@ I build systems that actually run: from distributed backends to bare-metal OS ke
 | 🔬 | **Research Intern** — CAIR-DRDO, under Scientist 'F' (Mar 2026 – Present) |
 | 📜 | IBM Software Engineering Specialization — Coursera |
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=UdayKhare09&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![Streak](https://nirzak-streak-stats.vercel.app/?user=UdayKhare09&theme=dark&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 <sub>Building things that matter · Indore, India</sub>
