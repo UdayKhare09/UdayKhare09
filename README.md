@@ -1,28 +1,132 @@
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uday_khare09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-khare-a09208289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:udaykhare77@gmail.com) 
+```
+██╗   ██╗██████╗  █████╗ ██╗   ██╗    ██╗  ██╗██╗  ██╗ █████╗ ██████╗ ███████╗
+██║   ██║██╔══██╗██╔══██╗╚██╗ ██╔╝    ██║ ██╔╝██║  ██║██╔══██╗██╔══██╗██╔════╝
+██║   ██║██║  ██║███████║ ╚████╔╝     █████╔╝ ███████║███████║██████╔╝█████╗  
+██║   ██║██║  ██║██╔══██║  ╚██╔╝      ██╔═██╗ ██╔══██║██╔══██║██╔══██╗██╔══╝  
+╚██████╔╝██████╔╝██║  ██║   ██║       ██║  ██╗██║  ██║██║  ██║██║  ██║███████╗
+ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝       ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
+```
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white) ![Wireguard](https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=UdayKhare09&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=UdayKhare09&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayKhare09&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### Software Engineer · Java Backend · DevOps · Research Intern @ CAIR-DRDO
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UdayKhare09&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/uday-khare-a09208289)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:udaykhare77@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/UdayKhare09)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=UdayKhare09&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=UdayKhare09&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/udaykhare) 
+## About
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+B.Tech CSE student at **Acropolis Institute of Technology and Research, Indore** (RGPV, 2023–2027), currently serving as a **Research Intern at CAIR-DRDO** under the mentorship of a Scientist 'F'. Co-founder at **Team Zemo** — a dev org building AI infrastructure and security tooling.
+
+I build systems that actually run: from distributed backends to bare-metal OS kernels to real-time physics simulators. Primary focus is Java backend engineering and DevOps infrastructure.
+
+---
+
+## Core Stack
+
+**Languages**
+`Java` `C/C++` `Kotlin` `Python` 
+
+**Backend & Infrastructure**
+`Spring Boot` `RabbitMQ` `PostgreSQL` `Docker` `Nginx` `Redis` `MinIO (S3)`
+
+**Auth & Security**
+`JWT` `OAuth 2.0` `RBAC` `TOTP` `RSA Encryption` `WireGuard`
+
+**DevOps & Tooling**
+`GitHub Actions` `Postman` `Swagger` `Linux` `Cloudflare`
+
+**Frontend (when needed)**
+`TypeScript` `React` `Vite` `Tailwind CSS`
+
+**Graphics / Low-level**
+`OpenGL` `WebGL` `GLSL` `Assembly` `UEFI/Limine`
+
+---
+
+## Selected Projects
+
+### 🏛 CDC Placement Portal
+> Full-stack recruitment automation system for a college Career Development Cell
+
+- Spring Boot backend with JWT auth, RBAC, and TOTP (2FA)
+- Automated Excel report generation via Apache POI
+- Dockerized with caching and async execution for scale
+
+---
+
+### 🌐 Omninet — Team Zemo
+> Web-based productivity platform with real-time communication and AI tooling
+
+- Real-time chat, AI assistant (Ollama), workspace tools
+- OAuth 2.0 + MinIO for secure file management
+- Stack: Spring Boot · RabbitMQ · MinIO · React · Vite · Tailwind
+
+---
+
+### 🔐 ProjectEXO
+> Encrypted multi-client communication system
+
+- RSA-encrypted client-server architecture in Core Java
+- Multi-platform: Android, Compose Desktop, server
+- Socket programming with AI integration
+
+---
+
+### 🖥 EXO_OS_2
+> 64-bit hobby OS for x86\_64 — *the real kind*
+
+- Custom kernel in C + Assembly, UEFI boot via Limine
+- PMM/VMM, scheduler, VFS (ext2/FAT32/tmpfs/procfs/devfs)
+- Full TCP/UDP/IPv4 stack from scratch
+- Linux-style credentials, seccomp, prctl
+- musl + BusyBox userspace
+
+---
+
+### 🌑 Blackhole Physics Simulator
+> Real-time black hole renderer — [live demo](https://blackhole.uday.teamzemo.tech)
+
+- Gravitational lensing, ray marching, Keplerian orbits, Doppler shift
+- WebGL (browser) + C++/OpenGL (native)
+
+---
+
+### 👁 God's Eye
+> Network surveillance and monitoring tool
+
+- Real-time network traffic analysis
+- Python + JavaScript stack
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| 🏆 | **Winner** — NIGHUD Web Discovery Contest @ IIT Indore × DRDO |
+| 📄 | **IEEE Published** — *AI-Powered Web-Based Yoga Instructor Using Computer Vision and Real-Time Feedback* |
+| 🔬 | **Research Intern** — CAIR-DRDO, under Scientist 'F' (Mar 2026 – Present) |
+| 📜 | IBM Software Engineering Specialization — Coursera |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=UdayKhare09&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=UdayKhare09&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Building things that matter · Indore, India</sub>
+</div>
